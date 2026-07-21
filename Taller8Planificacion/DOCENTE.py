@@ -1,7 +1,10 @@
-class Docente:
+class docente:
     def __init__(self,
-                  nombre,
-                    direccion=None, 
-                    telefono=None, 
-                    email=None):
-        
+                 nombre,
+                 email,        
+                 direccion=None, 
+                 telefono=None):
+        self.nombre = nombre
+        self.email = email
+        self.direccion = direccion
+        self.telefono = telefono
