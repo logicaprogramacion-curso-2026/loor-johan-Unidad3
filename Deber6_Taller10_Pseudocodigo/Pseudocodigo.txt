@@ -1,0 +1,37 @@
+Algoritmo Sistema_IA_Formativa_Docente
+
+    Escribir "--- INGRESO DE DATOS DEL DOCENTE ---"
+    Escribir "Ingrese Nombre del Docente:"
+    Leer nombreDocente
+    Escribir "Ingrese Disciplina:"
+    Leer disciplina
+    Escribir "Ingrese la Actividad o Evaluación:"
+    Leer actividadEntrada
+
+    Escribir "Procesando actividad mediante la IA..."
+
+    areaEmpoderamiento = "Análisis de Autonomía y Autoevaluación"
+    areaRecursosDigitales = "Análisis de Interactividad y Multimedia"
+    areaEvaluacion = "Análisis de Criterios y Rúbricas"
+
+    nivelEmpoderamiento = 4
+    nivelRecursos = 3
+    nivelEvaluacion = 5
+
+    feedbackYMejora = "Generando recomendaciones personalizadas y propuestas de mejora para cada área..."
+
+    Escribir "=================================================="
+    Escribir "              INFORME FINAL DE IA                 "
+    Escribir "=================================================="
+    Escribir "Docente: ", nombreDocente
+    Escribir "Disciplina: ", disciplina
+    Escribir "Actividad Analizada: ", actividadEntrada
+    Escribir "--------------------------------------------------"
+    Escribir "1. Área Empoderamiento -> Nivel: ", nivelEmpoderamiento, "/5"
+    Escribir "2. Área Recursos Digitales -> Nivel: ", nivelRecursos, "/5"
+    Escribir "3. Área Evaluación -> Nivel: ", nivelEvaluacion, "/5"
+    Escribir "--------------------------------------------------"
+    Escribir "Propuestas de Mejora: ", feedbackYMejora
+    Escribir "=================================================="
+
+FinAlgoritmo
