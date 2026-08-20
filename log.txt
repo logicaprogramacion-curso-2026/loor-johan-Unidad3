@@ -1,0 +1,7 @@
+[2026-08-20 02:49:36] INTENTO FALLIDO: producto_id=99 no existe en el catalogo.
+[2026-08-20 02:49:36] INTENTO FALLIDO: cantidad invalida (-3) para producto_id=2.
+[2026-08-20 02:49:36] No se encontro el archivo 'archivo_que_no_existe.csv'.
+[2026-08-20 02:49:37] INTENTO FALLIDO: producto_id=99 no existe en el catalogo.
+[2026-08-20 02:49:37] INTENTO FALLIDO: cantidad invalida (-3) para producto_id=2.
+[2026-08-20 02:49:37] No se encontro el archivo 'archivo_que_no_existe.csv'.
+[2026-08-20 02:49:37] Division por cero al calcular ticket promedio por unidad.
